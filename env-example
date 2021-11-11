@@ -1,0 +1,3 @@
+API_HOST=https://yourcompany.atlassian.net/rest/api/3
+API_TOKEN=Base64EncodeOfYourUserPasswordHere
+PROJECT=jiraProjectCodeHere
